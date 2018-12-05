@@ -1,3 +1,7 @@
+### Update 18/12/5
+The rank label document for test faces is wrong. The correct one has updated in real-test/ fold. 
+--------------------
+
 # FIIQA
 This is the website for our paper "Illumination Quality Assessment for Face Images: A Benchmark and A Convolutional Neural Networks Based Model", submitted to ICONIP
 
