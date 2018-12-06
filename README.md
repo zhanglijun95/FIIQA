@@ -1,5 +1,5 @@
 ### Update 18/12/5
-The rank label document for test faces is wrong. The correct one has updated in real-test/ fold. 
+New scores have been updated.
 --------------------
 
 # FIIQA
