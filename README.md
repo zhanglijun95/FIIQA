@@ -7,7 +7,7 @@ New scores have been updated.
 --------------------
 
 # FIIQA
-This is the website for our paper "Illumination Quality Assessment for Face Images: A Benchmark and A Convolutional Neural Networks Based Model", submitted to ICONIP
+This is the website for our paper "Illumination Quality Assessment for Face Images: A Benchmark and A Convolutional Neural Networks Based Model", accepeted by ICONIP 2017.
 
 ### Introduction
 Kinds of adverse factors can decrease the performance of a face recognition system. Among them, the varying illumination condition is a common one. For some applications, a method that can automatically and objectively evaluate the illumination quality of a face image in a human-like manner is highly desired. However, few studies have been conducted in this area. To fill this research gap to some extent, we make two contributions. Firstly, in order to facilitate the study of illumination quality prediction for face images, a large-scale database, namely, Face Image Illumination Quality Database, is established. For each image in this database, there is an associated illumination quality score. Secondly, based on deep convolutional neural networks, a novel highly accurate model for predicting the illumination quality of face images is proposed. With this approach, given a test face image, the associated illumination quality score will be inferred. Its efficacy and efficiency have been corroborated on our database.
