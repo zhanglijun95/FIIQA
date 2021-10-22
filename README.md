@@ -1,5 +1,5 @@
 ### Update 21/10/11
-Google drive links for datasets have been updated.
+Google drive links for datasets have been updated. Please remember to download the new scores from the repo to replace the old scores in the dataset folder.
 --------------------
 
 ### Update 18/12/5
